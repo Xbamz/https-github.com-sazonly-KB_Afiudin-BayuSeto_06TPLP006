@@ -1,5 +1,5 @@
   #Afiudin BayuSeto
-  #201011401707
+  #201011402128
   #UAS Kecerdasan Buatan
 
 
